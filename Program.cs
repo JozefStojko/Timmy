@@ -10,7 +10,13 @@ namespace Projekat1
     {
         static void Main(string[] args)
         {
+<<<<<<< HEAD
             Console.WriteLine("Hello World");
+=======
+            Console.WriteLine("Boban (github username: connecttoconnecticut ) ovde!");
+
+
+>>>>>>> e177eb24b4a1bf41ba8693dbb6e25126e0d43153
         }
     }
 }
