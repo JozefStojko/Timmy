@@ -10,6 +10,8 @@ namespace Projekat1
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Cao Lepi");
         }
     }
 }
